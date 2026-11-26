@@ -1,127 +1,118 @@
 
-<!-- =====================================================
-     VIKAS | PROFESSIONAL GITHUB PROFILE
-     Username: workwithvikas02007
-     Theme: Charcoal + Subtle Blue
-====================================================== -->
-
 <div align="center">
 
-# Vikas
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:102719,100:39FF14&height=180&section=header&text=VIKAS&fontSize=60&fontColor=39FF14&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20DEVELOPER&descSize=15&descColor=C9D1D9&descAlignY=60"/>
 
-### Aspiring Software Developer | Student | Tech Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Vikas+%F0%9F%91%8B;Student+%7C+Aspiring+Developer;Learning+%7C+Building+%7C+Growing;Turning+Ideas+Into+Code." />
 
-Building my skills in software development, exploring new technologies, and turning ideas into practical solutions.
+<br/><br/>
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-24292f?style=flat-square&logo=github)](https://github.com/workwithvikas02007)
-[![Profile Views](https://komarev.com/ghpvc/?username=workwithvikas02007&style=flat-square&color=3978b8&label=Profile+Views)](https://github.com/workwithvikas02007)
+<img src="https://komarev.com/ghpvc/?username=workwithvikas02007&style=flat-square&color=39FF14&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Hello! I'm Vikas, a student and aspiring software developer passionate about technology and building useful digital experiences.
+Hi, I'm **Vikas**, a student and aspiring software developer interested in building useful digital experiences.
 
-I enjoy learning programming languages, exploring web development, and improving my problem-solving abilities.
+I enjoy exploring programming, learning modern technologies, and turning ideas into practical projects.
 
-- Currently learning and exploring software development.
-- Interested in web development and creative problem-solving.
-- Working with Python, JavaScript, C and C++.
-- Exploring frontend development with React.
-- Focused on building practical projects and improving every day.
-
-My goal is to become a skilled developer by learning, experimenting, and consistently building.
+- 🌱 Currently learning software development.
+- 💻 Exploring frontend and programming fundamentals.
+- ⚡ Interested in creative coding and problem-solving.
+- 🎯 Focused on building real-world projects.
+- 🚀 Believe in learning something new every day.
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp&theme=dark"/>
 
-### Frontend Development
+### Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
 
-### Tools & Platforms
+### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## Currently Learning
-
-- Improving Python programming skills.
-- Strengthening JavaScript fundamentals.
-- Learning React and modern frontend development.
-- Practicing data structures and problem solving.
-- Understanding Git and collaborative development.
-
----
-
-## Featured Projects
-
-I am continuously working on improving my development skills through practical projects.
-
-<!-- Replace these examples with your actual repository links and descriptions. -->
-
-| Project | Description | Technologies |
-|---|---|---|
-| Project 01 | Add your project description here. | Python |
-| Project 02 | Add your project description here. | HTML, CSS, JavaScript |
-| Project 03 | Add your project description here. | React |
-
-**Explore my repositories:**  
-[github.com/workwithvikas02007](https://github.com/workwithvikas02007?tab=repositories)
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=workwithvikas02007&show_icons=true&hide_border=true&bg_color=161B22&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workwithvikas02007&layout=compact&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 
 </div>
 
 ---
 
-## My Development Philosophy
-
-> "Great developers are not defined by how much they know, but by how consistently they learn, build, and improve."
-
-I believe in continuous learning, writing meaningful code, and creating solutions that make a difference.
-
----
-
-## Connect With Me
+## 📈 GitHub Statistics
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/workwithvikas02007)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=workwithvikas02007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workwithvikas02007&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=workwithvikas02007&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
 
 ---
 
+## 📊 Contribution Activity
+
 <div align="center">
 
-**Thanks for visiting my profile!**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=workwithvikas02007&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-Always learning. Always building. Always improving.
+</div>
+
+---
+
+## 🚀 Current Focus
+
+```text
+[01] Improving programming fundamentals
+[02] Exploring React and web development
+[03] Building practical projects
+[04] Learning Git and GitHub workflows
+[05] Becoming a better problem solver
+```
+
+---
+
+## 💼 Featured Projects
+
+> A selection of my development work.
+
+<!-- Replace with your real project links -->
+
+| Project | Description |
+|---|---|
+| Project 01 | Add your project description |
+| Project 02 | Add your project description |
+| Project 03 | Add your project description |
+
+[Explore All Repositories →](https://github.com/workwithvikas02007?tab=repositories)
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/workwithvikas02007">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14"/>
+</a>
+
+<br/><br/>
+
+### "Learn continuously. Build intentionally. Grow consistently."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:102719,100:0D1117&height=110&section=footer"/>
 
 </div>
