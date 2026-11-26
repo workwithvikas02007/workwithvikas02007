@@ -1,25 +1,118 @@
 
-<!--
-  VIKAS // CYBERPUNK DEVELOPER PROFILE
-  GitHub: workwithvikas02007
-  Theme: Neon Green x Electric Purple
--->
+<!-- =====================================================
+     VIKAS | PROFESSIONAL GITHUB PROFILE
+     Username: workwithvikas02007
+     Theme: Charcoal + Subtle Blue
+====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&text=VIKAS&fontSize=85&fontColor=39FF14&stroke=BC13FE&strokeWidth=2&color=0:05000D,50:17052B,100:003B24&animation=twinkling&desc=CREATIVE%20DEVELOPER%20%2F%2F%20DIGITAL%20ARCHITECT&descSize=16&descColor=BC13FE&descAlignY=75"/>
+# Vikas
+
+### Aspiring Software Developer | Student | Tech Enthusiast
+
+Building my skills in software development, exploring new technologies, and turning ideas into practical solutions.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=1800&pause=600&color=39FF14&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=%3E+SYSTEM+BOOTING...;%3E+IDENTITY%3A+VIKAS;%3E+CREATIVE+DEVELOPER;%3E+CODE+%2F%2F+CREATE+%2F%2F+INNOVATE;%3E+WELCOME+TO+MY+DIGITAL+UNIVERSE_" />
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-24292f?style=flat-square&logo=github)](https://github.com/workwithvikas02007)
+[![Profile Views](https://komarev.com/ghpvc/?username=workwithvikas02007&style=flat-square&color=3978b8&label=Profile+Views)](https://github.com/workwithvikas02007)
 
-<br/><br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=workwithvikas02007&style=for-the-badge&color=39FF14&label=SYSTEM+VISITORS" />
+---
 
-<br/><br/>
+## About Me
 
-<code>01010110 01001001 01001011 01000001 01010011</code>
+Hello! I'm Vikas, a student and aspiring software developer passionate about technology and building useful digital experiences.
+
+I enjoy learning programming languages, exploring web development, and improving my problem-solving abilities.
+
+- Currently learning and exploring software development.
+- Interested in web development and creative problem-solving.
+- Working with Python, JavaScript, C and C++.
+- Exploring frontend development with React.
+- Focused on building practical projects and improving every day.
+
+My goal is to become a skilled developer by learning, experimenting, and consistently building.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Currently Learning
+
+- Improving Python programming skills.
+- Strengthening JavaScript fundamentals.
+- Learning React and modern frontend development.
+- Practicing data structures and problem solving.
+- Understanding Git and collaborative development.
+
+---
+
+## Featured Projects
+
+I am continuously working on improving my development skills through practical projects.
+
+<!-- Replace these examples with your actual repository links and descriptions. -->
+
+| Project | Description | Technologies |
+|---|---|---|
+| Project 01 | Add your project description here. | Python |
+| Project 02 | Add your project description here. | HTML, CSS, JavaScript |
+| Project 03 | Add your project description here. | React |
+
+**Explore my repositories:**  
+[github.com/workwithvikas02007](https://github.com/workwithvikas02007?tab=repositories)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=workwithvikas02007&show_icons=true&hide_border=true&bg_color=161B22&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workwithvikas02007&layout=compact&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9" />
+
+</div>
+
+---
+
+## My Development Philosophy
+
+> "Great developers are not defined by how much they know, but by how consistently they learn, build, and improve."
+
+I believe in continuous learning, writing meaningful code, and creating solutions that make a difference.
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/workwithvikas02007)
 
 </div>
 
@@ -27,144 +120,8 @@
 
 <div align="center">
 
-## <span>◢ WHO AM I // 001 ◣</span>
+**Thanks for visiting my profile!**
 
-`[ IDENTITY VERIFIED ]` ` [ ACCESS GRANTED ]`
-
-</div>
-
-```python
-class Developer:
-
-    def __init__(self):
-        self.name = "Vikas"
-        self.username = "workwithvikas02007"
-        self.role = "Student / Aspiring Developer"
-
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "C",
-            "C++"
-        ]
-
-        self.frontend = [
-            "HTML",
-            "CSS",
-            "React"
-        ]
-
-        self.interests = [
-            "Creative Development",
-            "Web Technologies",
-            "Problem Solving",
-            "Open Source"
-        ]
-
-        self.status = "Always Learning"
-
-    def mission(self):
-        return "Turning imagination into code. ⚡"
-
-
-developer = Developer()
-print(developer.mission())
-```
-
-<div align="center">
-
-**I DON'T JUST WRITE CODE. I BUILD IDEAS.**
-
-</div>
-
----
-
-<div align="center">
-
-## ◢ TECH ARSENAL // 002 ◣
-
-`[ LOADING SKILLS... ]`
-
-<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,html,css,react&theme=dark" />
-
-<br/><br/>
-
-### TOOLS & ENVIRONMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-## ◢ GITHUB ANALYTICS // 003 ◣
-
-`[ DEVELOPER PERFORMANCE MONITOR ]`
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=workwithvikas02007&show_icons=true&hide_border=true&bg_color=08000F&title_color=39FF14&icon_color=BC13FE&text_color=EAEAEA&ring_color=39FF14"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workwithvikas02007&layout=compact&hide_border=true&bg_color=08000F&title_color=39FF14&text_color=EAEAEA"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=workwithvikas02007&hide_border=true&background=08000F&ring=39FF14&fire=BC13FE&currStreakLabel=39FF14&sideLabels=BC13FE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ◢ DIGITAL FOOTPRINT // 004 ◣
-
-`[ CONTRIBUTION TRACKER ]`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=workwithvikas02007&bg_color=08000F&color=39FF14&line=BC13FE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ◢ CURRENT MISSIONS // 005 ◣
-
-</div>
-
-```diff
-+ LEARN     :: New Technologies
-+ EXPLORE   :: Web Development
-+ CREATE    :: Creative Projects
-+ IMPROVE   :: Coding & Problem Solving
-! NEXT      :: Open Source Contributions
-```
-
----
-
-<div align="center">
-
-## ◢ ESTABLISH CONNECTION // 006 ◣
-
-<a href="https://github.com/workwithvikas02007">
-<img src="https://img.shields.io/badge/GITHUB-39FF14?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-BC13FE?style=for-the-badge&labelColor=08000F"/>
-
-<br/><br/>
-
-### `> REALITY IS JUST ANOTHER LINE OF CODE_`
-
-**THINK DIFFERENT. CODE DIFFERENT. BUILD THE FUTURE.**
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=130&color=0:BC13FE,50:15002A,100:39FF14&section=footer"/>
+Always learning. Always building. Always improving.
 
 </div>
