@@ -1,151 +1,181 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=220&section=header&text=VIKAS%20SAHU&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=STUDENT%20%7C%20ASPIRING%20DEVELOPER&descAlignY=55&descSize=18" width="100%"/>
+<!-- ANIMATED HEADER -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=WELCOME+TO+MY+GITHUB;I'M+VIKAS+SAHU;STUDENT+%26+ASPIRING+DEVELOPER;HTML+%7C+C+%7C+PYTHON;CODE.+PLAY.+REPEAT." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161B33,100:6C00FF&height=200&section=header&text=VIKAS%20SAHU&fontSize=55&fontColor=00FFFF&animation=fadeIn&fontAlignY=35"/>
+
+<!-- TYPING ANIMATION -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Vikas+Sahu+%F0%9F%91%8B;BCA+1st+Year+Student+%F0%9F%8E%93;JAIN+University%2C+Bangalore+%F0%9F%8F%AB;Learning+C+Programming+%F0%9F%92%BB;Future+Software+Developer+%F0%9F%9A%80"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=workwithvikas02007&label=PROFILE+VISITORS&color=7B2FF7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=workwithvikas02007&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/workwithvikas02007?style=for-the-badge&color=00FFFF&labelColor=000000&logo=github"/>
 
 </div>
 
 ---
 
-<h2 align="center">👾 ABOUT ME</h2>
+## 👨‍💻 ABOUT ME
 
-```python
-class VikasSahu:
-    name = "Vikas Sahu"
-    username = "workwithvikas02007"
-    role = "Student & Aspiring Developer"
+```c
+#include <stdio.h>
 
-    skills = ["HTML", "C", "Python"]
+int main() {
 
-    interests = [
-        "Programming",
-        "Technology",
-        "Gaming",
-        "Learning New Things"
-    ]
+    char name[] = "Vikas Sahu";
+    char education[] = "BCA - 1st Year";
+    char university[] = "JAIN University, Bangalore";
+    char currently_learning[] = "C Programming";
+    char dream[] = "Software Developer";
 
-    motto = "Code. Learn. Repeat."
+    printf("Hello World! 👋\n");
+    printf("Welcome to my GitHub Profile!\n");
 
-print("Welcome to my GitHub!")
+    return 0;
+}
 ```
 
-- 👋 Hi, I'm **Vikas Sahu**
-- 🎓 Student & Aspiring Developer
-- 💻 Passionate about programming
-- 🌐 Learning HTML
-- 🐍 Exploring Python
-- ⚡ Practicing C programming
-- 🚀 Always learning and improving!
+- 🎓 BCA 1st Year Student
+- 🏫 JAIN University, Bangalore
+- 💻 Currently Learning C Programming
+- 🌱 Exploring the world of technology
+- 🚀 Aspiring Software Developer
+- ⚡ Believe in: Learn, Build, Repeat!
 
 ---
 
-<h2 align="center">⚡ MY TECH ARSENAL</h2>
+## ⚡ MY TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,c,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,html,css,git,github,vscode&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Currently_Learning-C_Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 
 ---
 
-<h2 align="center">🌐 CONNECT WITH ME</h2>
+## 📊 GITHUB STATISTICS
 
 <div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=workwithvikas02007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=BD00FF&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workwithvikas02007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=workwithvikas02007&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=BD00FF"/>
+
+</div>
+
+---
+
+## 🐍 WATCH MY CONTRIBUTIONS GET EATEN!
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/workwithvikas02007/workwithvikas02007/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 👾 DEVELOPER TERMINAL
+
+```bash
+┌──(vikas㉿github)-[~]
+└─$ whoami
+
+Vikas Sahu
+
+└─$ education
+
+BCA 1st Year
+JAIN University, Bangalore
+
+└─$ currently_learning
+
+C Programming
+
+└─$ current_goal
+
+Become a Software Developer 🚀
+
+└─$ mindset
+
+LEARN. BUILD. REPEAT.
+
+└─$ status
+
+[ ONLINE ] 🟢
+```
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Let's+Connect+%F0%9F%A4%9D;Find+Me+Across+The+Internet+%F0%9F%8C%8D;Stay+Connected+%E2%9A%A1"/>
+
+<br/>
 
 <a href="https://www.instagram.com/vikasss.png?evlk=YzF0Mm5saHZubnpm">
-<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/share/1BsWiUCsaj/">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" width="55"/>
+<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 
 <a href="https://x.com/Vikassspng">
-<img src="https://cdn.simpleicons.org/x/ffffff" width="55"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 
 <a href="https://github.com/workwithvikas02007">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vikas-sahu-36ab07417?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<a href="https://www.instagram.com/vikasss.png?evlk=YzF0Mm5saHZubnpm">INSTAGRAM</a>
-&nbsp; • &nbsp;
-<a href="https://www.facebook.com/share/1BsWiUCsaj/">FACEBOOK</a>
-&nbsp; • &nbsp;
-<a href="https://x.com/Vikassspng">TWITTER / X</a>
-&nbsp; • &nbsp;
-<a href="https://github.com/workwithvikas02007">GITHUB</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+
+### 💜 FIND ME • FOLLOW ME • LET'S BUILD TOGETHER
 
 </div>
 
 ---
 
-<h2 align="center">🎮 GITHUB GAMING STATS</h2>
+## 💫 MY DEVELOPER PHILOSOPHY
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=workwithvikas02007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FF7&text_color=FFFFFF" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2500&pause=1000&color=BD00FF&center=true&vCenter=true&width=600&lines=Dream+Big+%F0%9F%9A%80;Start+Small+%F0%9F%92%BB;Stay+Consistent+%E2%9A%A1;Never+Stop+Learning+%F0%9F%94%A5"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workwithvikas02007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+### "Every expert was once a beginner."
 
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=workwithvikas02007&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7B2FF7&currStreakLabel=00F7FF" />
+### CODE • CREATE • REPEAT
 
 </div>
 
----
-
-<h2 align="center">🐍 MY CONTRIBUTION SNAKE</h2>
+<!-- ANIMATED FOOTER -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<h2 align="center">🏆 DEVELOPER QUOTE</h2>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=500&lines=KEEP+CODING;KEEP+LEARNING;KEEP+GROWING;NEVER+GIVE+UP!" />
-
-</div>
-
----
-
-<div align="center">
-
-<h3>⚡ CODE. PLAY. REPEAT. ⚡</h3>
-
-**THANKS FOR VISITING MY PROFILE ❤️**
-
-*Made with passion by Vikas Sahu*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D4FF,100:090979&height=120&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C00FF,50:161B33,100:000000&height=130&section=footer"/>
 
 </div>
