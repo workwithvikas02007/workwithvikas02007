@@ -80,17 +80,22 @@ int main() {
 
 ---
 
+
+---
+
 ## 🐍 WATCH MY CONTRIBUTIONS GET EATEN!
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/workwithvikas02007/workwithvikas02007/output/github-contribution-grid-snake-dark.svg" alt="Vikas Sahu GitHub Contribution Snake"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SNAKE-ANIMATION-6C00FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+  src="https://raw.githubusercontent.com/workwithvikas02007/workwithvikas02007/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="Vikas Sahu Contribution Snake"
+/>
 
 </div>
+
+---
 
 ---
 
